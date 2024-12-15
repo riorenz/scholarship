@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../xampp/htdocs/backupsystem/config"
+		},
+		{
+			"path": "../../../../xampp/htdocs/backupsystem/controller"
+		},
+		{
+			"path": "../../../../xampp/htdocs/backupsystem/exports"
+		},
+		{
+			"path": "../../../../xampp/htdocs/backupsystem/frontend"
+		},
+		{
+			"path": "../../../../xampp/htdocs/backupsystem/models"
+		},
+		{
+			"path": "../../../../xampp/htdocs/backupsystem/node_modules"
+		},
+		{
+			"path": "../../../../xampp/htdocs/backupsystem/routes"
+		},
+		{
+			"path": "../../../../xampp/htdocs/backupsystem/scholarship"
+		},
+		{
+			"path": "../../../../xampp/htdocs/backupsystem/views"
+		}
+	],
+	"settings": {}
+}
